@@ -4,6 +4,11 @@
     <con:setting id="e8075741-f718-4b75-ad13-15e2b937ce4efileName">TestSuite-1</con:setting>
   </con:settings>
   <con:runType>SEQUENTIAL</con:runType>
-  <con:properties/>
+  <con:properties>
+    <con:property>
+      <con:name>p1</con:name>
+      <con:value>v-remote</con:value>
+    </con:property>
+  </con:properties>
   <con:reportParameters/>
 </con:testSuite>
